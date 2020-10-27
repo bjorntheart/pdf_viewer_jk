@@ -14,7 +14,8 @@ dependencies:
   flutter_cache_manager: ^1.2.2
   path_provider: ^1.6.8
   numberpicker: ^1.2.0
-  flutter_advanced_networkimage: ^0.7.0
+  flutter_advanced_networkimage:
+    git: git@github.com:bjorntheart/flutter_advanced_networkimage.git
 
 dev_dependencies:
   flutter_test:
